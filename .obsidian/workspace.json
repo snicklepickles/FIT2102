@@ -11,17 +11,21 @@
             "id": "047f6954a257136a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Paradigms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "c2271559afe4c1df",
+            "id": "df9f3bdf5b3ac675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -102,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "JavaScript.md"
               }
             }
           }
@@ -168,9 +173,19 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "c2271559afe4c1df",
+  "active": "df9f3bdf5b3ac675",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Programming Paradigms.md",
+    "JavaScript.md",
+    "Untitled 1.md",
+    "Levels of Abstraction.md",
+    "images/Levels of Abstraction-20240715180356336.png",
+    "images/Levels of Abstraction-20240715180322388.png",
+    "images/Levels of Abstraction-20240715180214102.png",
+    "images/Levels of Abstraction-20240715180154235.png",
+    "Computer Architecture.md",
+    "images/Computer Architecture-20240715175232084.png",
+    "images",
     "Welcome.md",
     "Adrenal Gland.md",
     "Stress.md",
@@ -191,11 +206,6 @@
     "Thyroid Gland.md",
     "Pancreas.md",
     "images/Adrenal Gland-20240714151637818.png",
-    "images/Adrenal Gland-20240714151428615.png",
-    "images/Adrenal Gland-20240714151356431.png",
-    "images/Growth-20240714150536163.png",
-    "images/Growth-20240714150422901.png",
-    "images/Growth-20240714143755772.png",
     "Type 2 Diabetes.md",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
@@ -204,7 +214,6 @@
     "Excalidraw/images",
     "Excalidraw",
     "2024-07-03.md",
-    "images",
     "Untitled.canvas"
   ]
 }

@@ -19,5 +19,8 @@
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
-  "anuppuccin-theme-settings@@anp-header-margin-value": 2
+  "anuppuccin-theme-settings@@anp-header-margin-value": 2,
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "anp-codeblock-edit-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "anp-codeblock-preview-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "anp-codeblock-preview-hl-nowrap"
 }
