@@ -5,7 +5,7 @@
 .markdown-source-view {
 	font-family: var(--font-monospace);
 }
-
+/* 
 code, pre {
 	word-wrap: break-word;
 	white-space: pre;
@@ -24,4 +24,36 @@ code, pre {
 
 .cm-s-obsidian .HyperMD-codeblock {
 	line-height: 1.5;
+}
+
+.theme-light code, .theme-light pre {
+    white-space: pre;
+    overflow-x:auto;
+}
+ */
+/* 
+.markdown-rendered :not(.print) code,
+body :not(.print) code {
+  word-break: normal;
+  word-wrap: break-word;
+  white-space: pre;
+  overflow-x:auto;
+} */
+
+
+/* .theme-dark .HyperMD-codeblock, .theme-dark pre {
+    white-space: pre;
+    overflow-x:auto;
+} */
+
+/*un-wrap code*/
+.HyperMD-codeblock {
+    white-space: nowrap;
+}
+
+/*scroll codeblock in read mode*/
+.markdown-reading-view code[class*="language-"] {
+    overflow-x: scroll;
+    white-space: pre;
+    padding: 15px 0px;
 }

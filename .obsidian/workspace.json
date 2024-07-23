@@ -23,16 +23,24 @@
             "id": "df9f3bdf5b3ac675",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0654e3abb660bc1f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
+                "file": "TypeScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "TypeScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript.md"
+                "file": "TypeScript.md"
               }
             }
           }
@@ -173,10 +182,11 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "df9f3bdf5b3ac675",
+  "active": "0654e3abb660bc1f",
   "lastOpenFiles": [
-    "Programming Paradigms.md",
+    "TypeScript.md",
     "JavaScript.md",
+    "Programming Paradigms.md",
     "Untitled 1.md",
     "Levels of Abstraction.md",
     "images/Levels of Abstraction-20240715180356336.png",
