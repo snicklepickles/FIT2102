@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Paradigms.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,14 +21,6 @@
           },
           {
             "id": "df9f3bdf5b3ac675",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0654e3abb660bc1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript.md",
+                "file": "JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript.md",
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript.md"
+                "file": "JavaScript.md"
               }
             }
           }
@@ -182,8 +172,10 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "0654e3abb660bc1f",
+  "active": "047f6954a257136a",
   "lastOpenFiles": [
+    "images/JavaScript-20240724125546496.png",
+    "images/JavaScript-20240724124411881.png",
     "TypeScript.md",
     "JavaScript.md",
     "Programming Paradigms.md",
@@ -215,7 +207,6 @@
     "images/Thyroid Gland-20240711210014523.png",
     "Thyroid Gland.md",
     "Pancreas.md",
-    "images/Adrenal Gland-20240714151637818.png",
     "Type 2 Diabetes.md",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",

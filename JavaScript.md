@@ -147,6 +147,7 @@ all(x => x < 5, [1, 3, 5]); // false
 ```
 ## Closures
 - A function & the set of variables it accesses from its enclosing space is called a *closure*
+![[JavaScript-20240724124411881.png]]
 - Variables from the enclosing scope that are accessed by the closure are said to be *captured* by the closure
 ```js
 function add(x) {
@@ -164,6 +165,7 @@ plus(1,2)
 ```
 - Functions which operate on multiple parameters, but split the parameters across multiple nested single parameter functions, are said to be [[Currying|curried]]
 	- Can be written in either arrow syntax, `function` keyword, or both
+![[JavaScript-20240724125546496.png|380]]
 ```js
 function add(x) {
   return function(y) {
