@@ -166,6 +166,7 @@ plus(1,2)
 - Functions which operate on multiple parameters, but split the parameters across multiple nested single parameter functions, are said to be [[Currying|curried]]
 	- Can be written in either arrow syntax, `function` keyword, or both
 ![[JavaScript-20240724125546496.png|380]]
+- ^ Semantically identical (unless they refer to `this`)
 ```js
 function add(x) {
   return function(y) {

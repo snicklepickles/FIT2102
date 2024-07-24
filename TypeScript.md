@@ -1,3 +1,7 @@
+- Superset of [[JavaScript]] that introduces **type annotations**
+- When declaring variables, functions, parameters, etc.
+- Default approach: *gradually* typed
+	- In tutorials: *strict* typing (cannot use `any`)
 ## Type Annotations
 - For primitives (`number`, `string`, `boolean`), TS compiler infers type
 ```ts
@@ -11,7 +15,18 @@ function theFunction(x: number, y: number): number {
   return x + y; // returns a number
 }
 ```
+## Type Aliases
+- Using `type` keyword
+- Without aliases
+![[TypeScript-20240724142051250.png]]
+- With aliases
+![[TypeScript-20240724142107897.png]]
 ## Higher Order Functions
+### Currying
+- Translating a function that takes multiple arguments into a sequence of *unary* functions
+- `multiply` is a *curried* function
+![[TypeScript-20240724141007245.png]]
+![[TypeScript-20240724141321691.png]]
 ```ts
 function curry<U,V,W>(f:(x:U,y:V)=>W): (x:U)=>(y:V)=>W {
   return x=>y=>f(x,y)
@@ -141,3 +156,12 @@ function binarySearch3<T>(arr:T[], key:T, compare: (a:T,b:T)=>number): number {
 
 binarySearch3(students, (a,b)=>/* return 1 if a is greater than b, 0 if they are the same, -1 otherwise */)
 ```
+### Generic Curry
+![[TypeScript-20240724142545924.png]]
+![[TypeScript-20240724142641932.png]]
+![[TypeScript-20240724143159187.png]]
+## Linked Lists
+![[TypeScript-20240724143904514.png]]
+### Concat
+![[TypeScript-20240724144129156.png|558]]
+- `[1, 2 ,3] + [4, 5, 6]`

@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03e96a9bff56a000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cons List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Cons List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Cons List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript.md"
+                "file": "Cons List.md"
               }
             }
           }
@@ -172,21 +185,26 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "047f6954a257136a",
+  "active": "03e96a9bff56a000",
   "lastOpenFiles": [
-    "images/JavaScript-20240724125546496.png",
-    "images/JavaScript-20240724124411881.png",
+    "Untitled.md",
+    "Cons List.md",
+    "images/Cons List-20240724150400086.png",
+    "images/Cons List-20240724150337082.png",
+    "images/Cons List-20240724150334984.png",
+    "images/Cons List-20240724150244869.png",
+    "images/Cons List-20240724150211192.png",
+    "images/Cons List-20240724150003065.png",
+    "images/Cons List-20240724145939482.png",
+    "images/Cons List-20240724145509569.png",
+    "images/Cons List-20240724145447512.png",
+    "images/Cons List-20240724145429323.png",
     "TypeScript.md",
     "JavaScript.md",
     "Programming Paradigms.md",
     "Untitled 1.md",
     "Levels of Abstraction.md",
-    "images/Levels of Abstraction-20240715180356336.png",
-    "images/Levels of Abstraction-20240715180322388.png",
-    "images/Levels of Abstraction-20240715180214102.png",
-    "images/Levels of Abstraction-20240715180154235.png",
     "Computer Architecture.md",
-    "images/Computer Architecture-20240715175232084.png",
     "images",
     "Welcome.md",
     "Adrenal Gland.md",
@@ -201,10 +219,6 @@
     "GH Disorders.md",
     "Diabetes.md",
     "Actions of T3.md",
-    "images/Pituitary Gland-20240709122537891.png",
-    "images/Thyroid Gland-20240711211244549.png",
-    "images/Diabetes Mellitus-20240709010028939.png",
-    "images/Thyroid Gland-20240711210014523.png",
     "Thyroid Gland.md",
     "Pancreas.md",
     "Type 2 Diabetes.md",
@@ -214,7 +228,6 @@
     "Excalidraw/Drawing 2024-07-03 17.27.04.excalidraw.md",
     "Excalidraw/images",
     "Excalidraw",
-    "2024-07-03.md",
     "Untitled.canvas"
   ]
 }
