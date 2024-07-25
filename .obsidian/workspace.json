@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "047f6954a257136a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df9f3bdf5b3ac675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03e96a9bff56a000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cons List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d10c79734d03310",
+            "id": "0654e3abb660bc1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Hormones",
+                "query": "closure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -196,25 +160,24 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "6d10c79734d03310",
+  "active": "0654e3abb660bc1f",
   "lastOpenFiles": [
-    "Functional Programming in JS.md",
     "Cons List.md",
-    "Untitled 1.md",
-    "us1902785.md",
-    "images/Cons List-20240724150400086.png",
-    "images/Cons List-20240724150337082.png",
-    "images/Cons List-20240724150334984.png",
-    "images/Cons List-20240724150244869.png",
-    "images/Cons List-20240724150211192.png",
-    "images/Cons List-20240724150003065.png",
-    "images/Cons List-20240724145939482.png",
-    "images/Cons List-20240724145509569.png",
-    "images/Cons List-20240724145447512.png",
-    "images/Cons List-20240724145429323.png",
+    "Functional Programming in JS.md",
+    "images/Functional Programming in JS-20240725174029214.png",
     "TypeScript.md",
     "JavaScript.md",
+    "images/TypeScript-20240724144129156.png",
+    "images/TypeScript-20240724143904514.png",
+    "images/TypeScript-20240724143159187.png",
+    "images/TypeScript-20240724143148491.png",
+    "images/TypeScript-20240724142641932.png",
+    "images/TypeScript-20240724142556722.png",
+    "images/TypeScript-20240724142545924.png",
+    "images/TypeScript-20240724142107897.png",
+    "images/TypeScript-20240724142051250.png",
     "Programming Paradigms.md",
+    "Untitled 1.md",
     "Levels of Abstraction.md",
     "Computer Architecture.md",
     "images",

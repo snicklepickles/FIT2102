@@ -122,6 +122,7 @@ const greeting = (greeting, person)=> {
 };
 ```
 ## Reduce
+- Other useful: `filter`, `map`, `?.` (optional chaining), `...` (spread), `find`, `join`
 - Applies function to each element in array to compute an **aggregate** value for whole array
 - `accumulator` is either:
 	- The 2nd argument to `reduce` in first call (in our case, `0`)
