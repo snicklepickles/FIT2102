@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Functional Programming in JS",
-      "path": "Functional Programming in JS.md"
-    },
-    {
-      "basename": "Cons List",
-      "path": "Cons List.md"
+      "basename": "Lazy Evaluation",
+      "path": "Lazy Evaluation.md"
     },
     {
       "basename": "TypeScript",
@@ -17,8 +13,20 @@
       "path": "JavaScript.md"
     },
     {
+      "basename": "Goals of OO vs FP",
+      "path": "Goals of OO vs FP.md"
+    },
+    {
       "basename": "Programming Paradigms",
       "path": "Programming Paradigms.md"
+    },
+    {
+      "basename": "Functional Programming in JS",
+      "path": "Functional Programming in JS.md"
+    },
+    {
+      "basename": "Cons List",
+      "path": "Cons List.md"
     },
     {
       "basename": "Levels of Abstraction",

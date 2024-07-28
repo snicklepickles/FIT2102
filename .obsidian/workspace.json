@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Programming in JS.md",
+                "file": "Goals of OO vs FP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5517b53cf85d2e33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dbe0f3f901bf534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lazy Evaluation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "closure",
+                "query": "reduce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming in JS.md",
+                "file": "Lazy Evaluation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming in JS.md",
+                "file": "Lazy Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming in JS.md"
+                "file": "Lazy Evaluation.md"
               }
             }
           }
@@ -160,23 +185,25 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "0654e3abb660bc1f",
+  "active": "7dbe0f3f901bf534",
   "lastOpenFiles": [
-    "Cons List.md",
-    "Functional Programming in JS.md",
-    "images/Functional Programming in JS-20240725174029214.png",
     "TypeScript.md",
     "JavaScript.md",
+    "Lazy Evaluation.md",
+    "Goals of OO vs FP.md",
+    "Programming Paradigms.md",
+    "images/Lazy Evaluation-20240728115743724.png",
+    "images/Lazy Evaluation-20240728115719081.png",
+    "images/Goals of OO vs FP-20240728113831397.png",
+    "Functional Programming in JS.md",
+    "Cons List.md",
+    "images/Functional Programming in JS-20240725174029214.png",
     "images/TypeScript-20240724144129156.png",
     "images/TypeScript-20240724143904514.png",
     "images/TypeScript-20240724143159187.png",
     "images/TypeScript-20240724143148491.png",
     "images/TypeScript-20240724142641932.png",
     "images/TypeScript-20240724142556722.png",
-    "images/TypeScript-20240724142545924.png",
-    "images/TypeScript-20240724142107897.png",
-    "images/TypeScript-20240724142051250.png",
-    "Programming Paradigms.md",
     "Untitled 1.md",
     "Levels of Abstraction.md",
     "Computer Architecture.md",
@@ -196,10 +223,8 @@
     "Actions of T3.md",
     "Thyroid Gland.md",
     "Pancreas.md",
-    "Type 2 Diabetes.md",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
-    "tsts.md",
     "Excalidraw/images",
     "Excalidraw",
     "Untitled.canvas"
