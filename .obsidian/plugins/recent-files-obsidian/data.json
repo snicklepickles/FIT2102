@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Lazy Evaluation",
-      "path": "Lazy Evaluation.md"
+      "basename": "Goals of OO vs FP",
+      "path": "Goals of OO vs FP.md"
     },
     {
       "basename": "TypeScript",
       "path": "TypeScript.md"
     },
     {
-      "basename": "JavaScript",
-      "path": "JavaScript.md"
+      "basename": "Functional Reactive Programming (FRP)",
+      "path": "Functional Reactive Programming (FRP).md"
     },
     {
-      "basename": "Goals of OO vs FP",
-      "path": "Goals of OO vs FP.md"
-    },
-    {
-      "basename": "Programming Paradigms",
-      "path": "Programming Paradigms.md"
+      "basename": "even",
+      "path": "images/even.gif"
     },
     {
       "basename": "Functional Programming in JS",
       "path": "Functional Programming in JS.md"
+    },
+    {
+      "basename": "Lazy Evaluation",
+      "path": "Lazy Evaluation.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "JavaScript.md"
+    },
+    {
+      "basename": "Programming Paradigms",
+      "path": "Programming Paradigms.md"
     },
     {
       "basename": "Cons List",

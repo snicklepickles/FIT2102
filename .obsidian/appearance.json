@@ -1,7 +1,7 @@
 {
   "cssTheme": "AnuPpuccin",
   "baseFontSizeAction": true,
-  "baseFontSize": 30,
+  "baseFontSize": 26,
   "enabledCssSnippets": [
     "codewrap"
   ]

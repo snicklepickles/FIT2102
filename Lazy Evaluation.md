@@ -32,7 +32,7 @@ const next = (_, f) => f
 lazyNaturalNumbers(1)(value) // 1
 lazyNaturalNumbers(1)(next)(value) // 2
 ```
-## Laziness with Types
+## Lazy Sequence
 ```js
 interface LazySequence<T> {
    value: T;
