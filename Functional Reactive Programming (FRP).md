@@ -159,3 +159,11 @@ rect.addEventListener('mousedown',e => {
 - we’re declaring callback functions inside of callback functions and the side effect of the program (that is, the change of state to the underlying web page by moving the rectangle) is hidden in the deepest nested part of the program;
 - we have to manually unsubscribe from events when we’re done with them by calling `removeEventListener` (or potentially deal with weird behaviour when unwanted zombie events fire).
 
+|                                        | Primary Hypothyroidism/ Secondary Hyperthyroidism | Graves’ Disease | Hashimoto’s Disease | TRH-Secreting Tumour | TSH-Secreting Tumour | TRH-Suppressing Tumour | TSH-Suppressing Tumour |
+| -------------------------------------- | ------------------------------------------------- | --------------- | ------------------- | -------------------- | -------------------- | ---------------------- | ---------------------- |
+| TRH levels                             | HIGH                                              | LOW             | HIGH                | HIGH                 | LOW                  | LOW                    | HIGH                   |
+| TSH levels                             | HIGH                                              | LOW             | HIGH                | HIGH                 | HIGH                 | LOW                    | LOW                    |
+| T3 and T4 levels                       | LOW                                               | HIGH            | LOW                 | HIGH                 | HIGH                 | LOW                    | LOW                    |
+| Antibodies or immunoglobulins present? | NO                                                | YES             | YES                 | NO                   | NO                   | NO                     | NO                     |
+| Goiter present?                        | YES                                               | YES             | YES (POSSIBLE)      | YES (POSSIBLE)       | YES                  | NO                     | NO                     |
+| Is patient hypo or hyper-thyroid?      | HYPO                                              | HYPER           | HYPO                | HYPER                | HYPER                | HYPO                   | HYPO                   |

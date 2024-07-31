@@ -83,13 +83,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -171,7 +169,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "6d10c79734d03310",
+  "active": "32b7fa3453dd3f06",
   "lastOpenFiles": [
     "images/Functional Reactive Programming (FRP)-20240731145708107.png",
     "Functional Reactive Programming (FRP).md",
