@@ -8,27 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0654e3abb660bc1f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5517b53cf85d2e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dbe0f3f901bf534",
+            "id": "6d10c79734d03310",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,14 +20,12 @@
             }
           },
           {
-            "id": "dd6d858f519bdea1",
+            "id": "4ce21af353a21991",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lazy Evaluation.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Functional Reactive Programming (FRP)-20240731145708107.png"
               }
             }
           }
@@ -105,11 +83,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -125,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Functional Reactive Programming (FRP).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Functional Reactive Programming (FRP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Functional Reactive Programming (FRP).md"
+              }
             }
           }
         ],
@@ -187,27 +171,28 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "0654e3abb660bc1f",
+  "active": "6d10c79734d03310",
   "lastOpenFiles": [
-    "Goals of OO vs FP.md",
-    "TypeScript.md",
+    "images/Functional Reactive Programming (FRP)-20240731145708107.png",
     "Functional Reactive Programming (FRP).md",
-    "images/euler 1.gif",
-    "images/euler.gif",
-    "images/even.gif",
-    "Functional Programming in JS.md",
-    "Lazy Evaluation.md",
-    "images/of1234.gif",
-    "images/Functional Reactive Programming-20240728150828259.png",
+    "images/Functional Reactive Programming (FRP)-20240731150308062.png",
+    "images/Functional Reactive Programming (FRP)-20240731145731055.png",
+    "images/Functional Reactive Programming (FRP)-20240731145704502.png",
+    "images/Functional Reactive Programming (FRP)-20240731145256014.png",
+    "images/Functional Reactive Programming (FRP)-20240731144916933.png",
     "JavaScript.md",
-    "Programming Paradigms.md",
-    "images/Lazy Evaluation-20240728115743724.png",
-    "images/Lazy Evaluation-20240728115719081.png",
-    "images/Goals of OO vs FP-20240728113831397.png",
     "Cons List.md",
-    "images/Functional Programming in JS-20240725174029214.png",
-    "images/TypeScript-20240724144129156.png",
+    "TypeScript.md",
+    "Functional Programming in JS.md",
+    "images/of1234.gif",
+    "images/even.gif",
+    "images/euler.gif",
+    "images/euler 1.gif",
+    "Lazy Evaluation.md",
+    "Goals of OO vs FP.md",
     "Untitled 1.md",
+    "us1902785.md",
+    "Programming Paradigms.md",
     "Levels of Abstraction.md",
     "Computer Architecture.md",
     "images",
@@ -224,7 +209,6 @@
     "GH Disorders.md",
     "Diabetes.md",
     "Actions of T3.md",
-    "Thyroid Gland.md",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
     "Excalidraw/images",
