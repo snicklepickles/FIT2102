@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Functional Programming in JS",
+      "path": "Functional Programming in JS.md"
+    },
+    {
       "basename": "Functional Reactive Programming (FRP)",
       "path": "Functional Reactive Programming (FRP).md"
-    },
-    {
-      "basename": "Functional Reactive Programming (FRP)-20240731145708107",
-      "path": "images/Functional Reactive Programming (FRP)-20240731145708107.png"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "JavaScript.md"
     },
     {
       "basename": "Cons List",
@@ -21,8 +17,8 @@
       "path": "TypeScript.md"
     },
     {
-      "basename": "Functional Programming in JS",
-      "path": "Functional Programming in JS.md"
+      "basename": "HTML as a Declarative Language",
+      "path": "HTML as a Declarative Language.md"
     },
     {
       "basename": "Programming Paradigms",
@@ -31,6 +27,22 @@
     {
       "basename": "Levels of Abstraction",
       "path": "Levels of Abstraction.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "JavaScript.md"
+    },
+    {
+      "basename": "Goals of OO vs FP",
+      "path": "Goals of OO vs FP.md"
+    },
+    {
+      "basename": "even",
+      "path": "images/even.gif"
+    },
+    {
+      "basename": "Lazy Evaluation",
+      "path": "Lazy Evaluation.md"
     }
   ],
   "omittedPaths": []

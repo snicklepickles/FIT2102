@@ -8,28 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d10c79734d03310",
+            "id": "5517b53cf85d2e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Reactive Programming (FRP).md",
+                "file": "Cons List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ce21af353a21991",
+            "id": "7dbe0f3f901bf534",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Functional Reactive Programming (FRP)-20240731145708107.png"
+                "file": "Functional Programming in JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd6d858f519bdea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lazy Evaluation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0489fa8866cc8e44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML as a Declarative Language.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -103,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Reactive Programming (FRP).md",
+                "file": "Functional Programming in JS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Reactive Programming (FRP).md",
+                "file": "Functional Programming in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Reactive Programming (FRP).md"
+                "file": "Functional Programming in JS.md"
               }
             }
           }
@@ -169,29 +196,29 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "32b7fa3453dd3f06",
+  "active": "7dbe0f3f901bf534",
   "lastOpenFiles": [
-    "images/Functional Reactive Programming (FRP)-20240731145708107.png",
     "Functional Reactive Programming (FRP).md",
+    "Cons List.md",
+    "TypeScript.md",
+    "HTML as a Declarative Language.md",
+    "Programming Paradigms.md",
+    "Levels of Abstraction.md",
+    "Functional Programming in JS.md",
+    "JavaScript.md",
+    "Goals of OO vs FP.md",
     "images/Functional Reactive Programming (FRP)-20240731150308062.png",
     "images/Functional Reactive Programming (FRP)-20240731145731055.png",
+    "images/Functional Reactive Programming (FRP)-20240731145708107.png",
     "images/Functional Reactive Programming (FRP)-20240731145704502.png",
     "images/Functional Reactive Programming (FRP)-20240731145256014.png",
     "images/Functional Reactive Programming (FRP)-20240731144916933.png",
-    "JavaScript.md",
-    "Cons List.md",
-    "TypeScript.md",
-    "Functional Programming in JS.md",
-    "images/of1234.gif",
-    "images/even.gif",
-    "images/euler.gif",
     "images/euler 1.gif",
+    "images/euler.gif",
+    "images/even.gif",
     "Lazy Evaluation.md",
-    "Goals of OO vs FP.md",
+    "images/of1234.gif",
     "Untitled 1.md",
-    "us1902785.md",
-    "Programming Paradigms.md",
-    "Levels of Abstraction.md",
     "Computer Architecture.md",
     "images",
     "Welcome.md",
@@ -207,6 +234,7 @@
     "GH Disorders.md",
     "Diabetes.md",
     "Actions of T3.md",
+    "Thyroid Gland.md",
     "images/Notes – MNET x CCA cooking session.pdf",
     "Untitled",
     "Excalidraw/images",

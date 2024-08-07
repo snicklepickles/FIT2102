@@ -73,8 +73,8 @@ e=>{
 // maybe using the result of the event e
 });
 ```
-- Arrow: `this` is bound to context of *caller*
 - `function`: `this` is bound to context of *callee*
+- - Arrow: `this` is bound to context of *caller*
 ```js
 function Counter() {
     this.count = 0;
